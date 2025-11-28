@@ -1,0 +1,73 @@
+﻿ID,name,mrt_station,tags,walk_min,price_level,rating
+1,台鐵LDK58蒸氣火車,台北車站,景點,6,low,4.3
+2,北門廣場,台北車站,散步,2,low,4.5
+3,國立臺灣博物館,台北車站,看展,10,low,4.5
+4,二二八和平公園,台北車站,散步,13,low,4.2
+5,附近咖啡,台北車站,咖啡廳,8,medium,4.3
+6,奧蘿茉咖啡館,台北車站,咖啡廳,9,medium,4.4
+7,SOALSO.cafe,台北車站,咖啡廳,4,medium,4.8
+8,山小孩咖啡,台北車站,咖啡廳,7,medium,4.3
+9,新光三越台北站前店,台北車站,逛街,4,low;medium;high,4
+10,京站時尚廣場,台北車站,逛街,5,low;medium;high,4.2
+11,西門町徒步區,西門,逛街,6,low;medium;high,4.4
+12,西門紅樓,西門,景點,5,low;medium;high,4.3
+13,ACRO X Café,西門,咖啡廳,8,medium,5
+14,海邊移住計劃咖啡廳,西門,咖啡廳,8,medium,4.9
+15,巷日咖啡,西門,咖啡廳,5,medium,4.8
+16,木咖,西門,咖啡廳,9,medium,4.7
+17,台北西門威秀影城,西門,電影,6,medium;high,3.1
+18,樂聲影城,西門,電影,12,medium;high,4
+19,台北in89豪華影城,西門,電影,13,medium;high,4.2
+20,統一時代百貨,市政府,逛街,2,low;medium;high,4.3
+21,新光三越,市政府,逛街,10,low;medium;high,4
+22,Dream Plaza,市政府,逛街,5,low;medium;high,3.9
+23,信義微風,市政府,逛街,2,low;medium;high,4.2
+24,LFP 香料香水實驗室,市政府,手作,7,high,4.8
+25,Hubox松菸店-職人手作造型燈,市政府,手作,12,high,5
+26,微風南山,市政府,逛街,13,low;medium;high,4.2
+27,松菸文創,市政府,逛街;散步,8,low;medium;high,4.4
+28,上樓看看咖啡,市政府,咖啡廳,4,medium,4.2
+29,CURISTA COFFEE,市政府,咖啡廳,4,medium,4.6
+30,KINJO草山金工,市政府,手作,13,high,5
+31,Cyan Cafe,市政府,咖啡廳,4,medium,4.6
+32,華納威秀,市政府,電影,11,medium;high,4
+33,心中山線形公園,中山,散步,8,low,4.5
+34,新光三越台北南西店,中山,逛街,4,low;medium;high,4.1
+35,WEDDING CODE 金工手作坊,中山,手作,4,high,5
+36,Does Art 都是藝術中山店・台北手作地毯Tufting,中山,手作,6,high,5
+37,PICK&COLLECT 手作體驗,中山,手作,9,high,5
+38,誠品生活南西,中山,逛街,3,low;medium;high,4.4
+39,佐曼咖啡館,中山,咖啡廳,4,medium,4.1
+40,libo Cafe.咖啡.coffee,中山,咖啡廳,7,low,4.3
+41,有趣市集,中山,逛街;散步,2,low;medium;high,4.6
+42,瑠公圳公園,忠孝復興,散步,6,low,4.6
+43,SOGO,忠孝復興,逛街,10,low;medium;high,4.2
+44,CAFE!N,忠孝復興,咖啡廳,7,medium,4.3
+45,慢步調 咖啡館,忠孝復興,咖啡廳,4,medium,4.5
+46,CURISTA COFFEE,忠孝復興,咖啡廳,3,medium,4.8
+47,遼寧街夜市,南京復興,夜市,3,low;medium;high,3.9
+48,袖珍博物館,南京復興,看展,10,low,4.4
+49,微風南京,南京復興,逛街,4,low;medium;high,3.9
+50,香瓜咖啡,南京復興,咖啡廳,1,medium,4.7
+51,Coffee Underwater,南京復興,咖啡廳,3,medium,4.7
+52,遠東百貨,板橋,逛街,11,low;medium;high,4.1
+53,環球購物中心,板橋,逛街,2,low;medium;high,4.2
+54,板橋大遠百,板橋,逛街,6,low;medium;high,4.2
+55,Merci Cafe,板橋,咖啡廳,13,medium,4.2
+56,CAFE!N,板橋,咖啡廳,12,medium,4
+57,台北101,台北101/世貿,景點;逛街,1,low;medium;high,4.5
+58,台北101觀景台,台北101/世貿,逛街,1,high,4.5
+59,四四南村,台北101/世貿,景點;散步,4,low;medium;high,4.4
+60,CAFE ACME mini,台北101/世貿,咖啡廳,3,medium,4.3
+61,CURISTA COFFEE,台北101/世貿,咖啡廳,3,medium,4.5
+62,Simple Kaffa Sola,台北101/世貿,咖啡廳,3,medium,4.3
+63,微風南山,台北101/世貿,逛街,5,low;medium;high,4.2
+64,ATT4FUN,台北101/世貿,逛街,7,low;medium;high,4.2
+65,華納威秀,台北101/世貿,電影,9,medium;high,4
+66,袖珍博物館,松江南京,看展,6,low,4.4
+67,四平陽光商圈,松江南京,逛街;散步,2,low;medium;high,3.8
+68,Welcome Bake,松江南京,手作,12,high,4.5
+69,角落咖啡館,松江南京,咖啡廳,3,medium,4.5
+70,ハーフ珈琲,新埔,咖啡廳,6,medium,4.7
+71,蒔嚐喫咖啡,新埔,咖啡廳,7,medium,4.8
+72,自己做烘焙聚樂部,新埔,手作,9,high,4.8
