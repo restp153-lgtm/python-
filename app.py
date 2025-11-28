@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-from tabulate import tabulate
-import sys
 import os
 
 # --------------------------
